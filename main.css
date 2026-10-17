@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	
+	background-color: #242B5C;
+	color: white;
+	font-family: corbel, sans-serif;
+}
+
+p{
+	padding: 0px 30px;
+	font-size: 120%;
+}
+
+.topic h1{
+	text-align: center;
+	font-size: 56px;
+}
+
+h2{
+	text-align: center;
+	font-size: 40px;
+	color: #386FC7;
+	background-color: white;
+	border-radius: 40px;
+	margin: 60px 20% 30px;
+}
+
+.SHeader{
+	background-color: #3563D1;
+	padding: 10px 40px;
+	text-align: center;
+	font-size: 200%;
+}
+
+.SHeader h1, .SHeader p{
+	margin: 0;
+	padding: 10px 0px;
+}
+	
+.SHeader p {
+	color: #9FCDF2;
+};
