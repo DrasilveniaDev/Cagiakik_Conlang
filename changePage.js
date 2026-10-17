@@ -7,7 +7,8 @@ async function changePage(PNum){
 		
 		if(verifPage.ok){
 			const tempPage = await verifPage.text()
-			document.getElementById("dictPage").innerHTML = tempPage;
+			document.getElementById("dictPage").innerHTML = "";
+			document.getElementById("dictPage").insertAdjacentHTML("afterbegin", tempPage);
 		}else{
 			alert("Page failed to load or it doesn't exist.");
 		}
