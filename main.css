@@ -57,14 +57,12 @@ button{
 
 
 .tabG { /* Table Graphic */
-	display: flex;
-	justify-content: center;
-
 	font-family: corbel, sans-serif;
 	font-size: 14 px;
 }
 .tabG table {
 	border-collapse: collapse;
+	margin: 0 auto;
 }
 .tabG td {
 	border: 5px solid #8df;
