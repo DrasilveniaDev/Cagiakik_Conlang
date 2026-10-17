@@ -1,0 +1,1 @@
+This is a zone of every page explaining how it does struct the Cagiakik language.
