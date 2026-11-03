@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<style>
+		.s0 { fill: #d9eff9;stroke: #75aaf8;stroke-linecap: round;stroke-miterlimit:100;stroke-width: 8 } 
+		.s1 { fill: none;stroke: #000000;stroke-linecap: round;stroke-miterlimit:100;stroke-width: 8 } 
+		.s2 { fill: #000000 } 
+	</style>
+	<path id="Background" fill-rule="evenodd" class="s0" d="m16 4h224c6.63 0 12 5.37 12 12v224c0 6.63-5.37 12-12 12h-224c-6.63 0-12-5.37-12-12v-224c0-6.63 5.37-12 12-12z"/>
+	<path id="Capa 1" class="s1" d="m61 28c0 0-19 28 23 28-16 38-17 74 45 74 61 0 55 36 41 72 13 0 34 0 34 0"/>
+	<path id="Capa 2" fill-rule="evenodd" class="s2" d="m155 97c-5.53 0-10-4.47-10-10 0-5.53 4.47-10 10-10 5.53 0 10 4.47 10 10 0 5.53-4.47 10-10 10z"/>
+	<path id="Capa 3" class="s1" d="m101 158l-5 31"/>
+</svg>
