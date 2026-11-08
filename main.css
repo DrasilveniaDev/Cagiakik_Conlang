@@ -39,6 +39,11 @@ button{
 	margin: 8px 24px;
 }
 
+img{
+	display: block;
+	margin: 10px auto;
+}
+
 .SHeader{
 	background-color: #3563D1;
 	padding: 10px 40px;
